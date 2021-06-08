@@ -1,0 +1,43 @@
+body{
+  background-color: #edfaeb;
+}
+hr{
+  background-color: #edfaeb;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width:5px;
+  width: 5%;
+}
+h1{
+  color: #e34b19;
+}
+h3{
+  color: #e34b19;
+}
+p{
+  color:#423942;
+}
+img{
+  height: 200px;
+  width:200px;
+}
+td{
+  color:#423942;
+}
+li{
+  color:#423942;
+}
+.one{
+  color: #4d80e4;
+}
+.two{
+  color: #4d80e4;
+}
+.circular{
+  height:60px;
+  width:60px;
+  border-radius: 100%;
+}
+.circular:hover{
+  background-color: gold;
+}
